@@ -69,7 +69,7 @@ class MyCartViewbody extends StatelessWidget {
             },
           ),
           const SizedBox(
-            height: 12,
+            height: 13,
           )
         ]),
       ),
